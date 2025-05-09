@@ -2,7 +2,7 @@
 
 # 🚀 Arduino-Based Water Rocket Flight Data Logger
 
-An Arduino-powered, high-precision water rocket system designed to collect and log complete flight data from launch to landing. The system uses sensor fusion and filtering algorithms, features automatic parachute deployment, and includes an audio signal upon landing. Compatible with the Vofa+ real-time data visualization platform.
+An Arduino-powered, high-precision water rocket system designed to collect and log complete flight data from launch to landing. The system uses sensor fusion and filtering algorithms, features automatic parachute deployment, and includes an audio signal upon landing. Compatible with the real-time data visualization platform.
 
 ## 🧠 Features
 
