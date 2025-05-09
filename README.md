@@ -9,7 +9,7 @@ An Arduino-powered, high-precision water rocket system designed to collect and l
 - Sensor fusion using **MPU6050 (I2C)** and **BME280 (SPI)** for flight dynamics and environment data
 - **Kalman filter** for angle estimation and **BMP (barometric method)** for altitude correction
 - **Millisecond-interval data logging** to SD card with uniform timestamps for detailed analysis
-- Real-time data visualization support via **Vofa+**
+- Real-time data visualization support
 - **Automatic parachute deployment** at apogee or when the rocket tilts more than 120° (confirmed 3 times to avoid false triggers)
 - **Buzzer alert** activated upon landing to assist in rocket retrieval
 
@@ -73,12 +73,12 @@ Example (logged at consistent millisecond intervals):
 
 - IDE: Arduino IDE  
 - All libraries can be installed via Library Manager  
-- Supported Boards: Arduino UNO / Nano / Mega  
+- Supported Boards: Arduino UNO / Nano / Mega etc.  
 - Upper Computer: Vofa+  
 
 ## 📸 Images and Demonstrations
 
-> (Insert photos of your system, wiring diagram, or Vofa+ plots here)
+<!-- > (Insert photos of your system, wiring diagram, or Vofa+ plots here) -->
 
 ---
 
