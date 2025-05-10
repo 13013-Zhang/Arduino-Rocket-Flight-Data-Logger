@@ -77,7 +77,7 @@ Example (logged at consistent millisecond intervals):
 - Upper Computer: Vofa+  
 
 ## 📸 Images and Demonstrations
-
+![Schematic](../Schematic_Rocket.png)
 <!-- > (Insert photos of your system, wiring diagram, or Vofa+ plots here) -->
 
 ---
