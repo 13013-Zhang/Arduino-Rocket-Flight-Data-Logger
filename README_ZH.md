@@ -76,7 +76,7 @@ GND -> GND
 - 支持上位机：Vofa+
 
 ## 📸 项目照片与演示
-![Schematic](../Schematic_Rocket.png)
+![Schematic](Document/Schematic_Rocket.png)
 <!-- >（你可以在此处插入系统实物照片、原理图或 Vofa+ 数据图） -->
 
 ---
