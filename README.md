@@ -77,8 +77,9 @@ Example (logged at consistent millisecond intervals):
 - Upper Computer: Vofa+  
 
 ## 📸 Images and Demonstrations
-![Schematic](Document/Schematic_Rocket.png)
-![alt text](Document/Circuit_Rocket.png)
+![Schematic](Circuit/Schematic_Rocket.png)
+![Circuit](Circuit/Circuit_Rocket.png)
+<video controls src="Demonstration/Vofa+.mp4" title="Title"></video>
 
 ---
 
@@ -90,4 +91,16 @@ This project is open-sourced under the MIT License. Feel free to use and modify 
 
 ## 🙌 Acknowledgments
 
-Special thanks to the open-source community and hardware developers who made this project possible.
+This project was developed as part of the **ES192 Engineering Design** course at the **University of Warwick**.
+
+Special thanks to my brilliant teammates for their dedication, teamwork, and creativity throughout the design, development, and testing phases:
+
+- NGUYEN, Ryan  
+- NIE, Jingren  
+- CHAN, Rooney  
+- JONES, Morgan  
+- AL-DABAGH, Mouaid  
+- HAQUE, Mayiz
+- Boyu Zhang Bob (me)
+
+We also extend our gratitude to the open-source hardware and software communities, whose tools and resources made this project possible.

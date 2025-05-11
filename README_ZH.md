@@ -76,8 +76,9 @@ GND -> GND
 - 支持上位机：Vofa+
 
 ## 📸 项目照片与演示
-![Schematic](Document/Schematic_Rocket.png)
-![alt text](Document/Circuit_Rocket.png)
+![Schematic](Circuit/Schematic_Rocket.png)
+![Circuit](Circuit/Circuit_Rocket.png)
+<video controls src="Demonstration/Vofa+.mp4" title="Title"></video>
 
 ---
 
@@ -89,4 +90,16 @@ GND -> GND
 
 ## 🙌 致谢
 
-感谢所有开源社区与硬件开发者的支持，让本项目成为可能。
+本项目是我们在**华威大学**参加的**ES192 工程设计课程**的一部分，
+
+特别感谢以下出色的组员，在项目的设计、开发与测试过程中展现出极大的投入、合作精神与创造力：
+
+- NGUYEN, Ryan  
+- NIE, Jingren  
+- CHAN, Rooney  
+- JONES, Morgan  
+- AL-DABAGH, Mouaid  
+- HAQUE, Mayiz
+- Boyu Zhang Bob (我)
+
+同时也感谢开源硬件与软件社区，正是他们所提供的工具和资源使本项目得以实现。
