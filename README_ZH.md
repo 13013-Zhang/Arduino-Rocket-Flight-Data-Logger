@@ -77,7 +77,7 @@ GND -> GND
 
 ## 📸 项目照片与演示
 ![Schematic](Document/Schematic_Rocket.png)
-<!-- >（你可以在此处插入系统实物照片、原理图或 Vofa+ 数据图） -->
+![alt text](Document/Circuit_Rocket.png)
 
 ---
 

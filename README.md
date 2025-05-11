@@ -78,7 +78,7 @@ Example (logged at consistent millisecond intervals):
 
 ## 📸 Images and Demonstrations
 ![Schematic](Document/Schematic_Rocket.png)
-<!-- > (Insert photos of your system, wiring diagram, or Vofa+ plots here) -->
+![alt text](Document/Circuit_Rocket.png)
 
 ---
 
